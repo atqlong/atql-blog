@@ -14,7 +14,7 @@ export default function Home() {
         <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,500;1,600&display=swap" rel="stylesheet" />
       </Head>
 
-      <main>
+      <main className="bg-gradient-to-t from-yellow-50 via-red-50 to-pink-50">
         <Layout>
           <BlogHero />
         </Layout>
